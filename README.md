@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/UdayRaj2003/Practice-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UdayRaj2003/Practice-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/UdayRaj2003/Practice-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/UdayRaj2003/Practice-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UdayRaj2003/Practice-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/UdayRaj2003/Practice-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/UdayRaj2003/Practice-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/UdayRaj2003/Practice-DSA/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
