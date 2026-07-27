@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/UdayRaj2003/Practice-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1301-number-of-paths-with-max-score](https://github.com/UdayRaj2003/Practice-DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UdayRaj2003/Practice-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UdayRaj2003/Practice-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/UdayRaj2003/Practice-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UdayRaj2003/Practice-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UdayRaj2003/Practice-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/UdayRaj2003/Practice-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
@@ -221,5 +223,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/UdayRaj2003/Practice-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UdayRaj2003/Practice-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/UdayRaj2003/Practice-DSA/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
