@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/UdayRaj2003/Practice-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/UdayRaj2003/Practice-DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UdayRaj2003/Practice-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2029-stone-game-ix](https://github.com/UdayRaj2003/Practice-DSA/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/UdayRaj2003/Practice-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UdayRaj2003/Practice-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/UdayRaj2003/Practice-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/UdayRaj2003/Practice-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/UdayRaj2003/Practice-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/UdayRaj2003/Practice-DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/UdayRaj2003/Practice-DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/UdayRaj2003/Practice-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/UdayRaj2003/Practice-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/UdayRaj2003/Practice-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/UdayRaj2003/Practice-DSA/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UdayRaj2003/Practice-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/UdayRaj2003/Practice-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/UdayRaj2003/Practice-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/UdayRaj2003/Practice-DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/UdayRaj2003/Practice-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UdayRaj2003/Practice-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
@@ -283,16 +287,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/UdayRaj2003/Practice-DSA/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/UdayRaj2003/Practice-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/UdayRaj2003/Practice-DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/UdayRaj2003/Practice-DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/UdayRaj2003/Practice-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/UdayRaj2003/Practice-DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/UdayRaj2003/Practice-DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/UdayRaj2003/Practice-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/UdayRaj2003/Practice-DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/UdayRaj2003/Practice-DSA/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -305,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/UdayRaj2003/Practice-DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/UdayRaj2003/Practice-DSA/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
