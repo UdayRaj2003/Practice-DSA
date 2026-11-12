@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/UdayRaj2003/Practice-DSA/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/UdayRaj2003/Practice-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UdayRaj2003/Practice-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/UdayRaj2003/Practice-DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/UdayRaj2003/Practice-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/UdayRaj2003/Practice-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/UdayRaj2003/Practice-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
